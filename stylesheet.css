@@ -848,7 +848,7 @@ ol{
 	color:black;
 	font-weight:900;
 	font-family:'Raleway', sans-serif;
-	font-size: 2em;
+	font-size: 1em;
 }
 
 #BeforeInput::before{
@@ -1550,7 +1550,7 @@ ol{
 	color:black;
 	font-weight:900;
 	font-family:'Raleway', sans-serif;
-	font-size: 2em;
+	font-size: 1em;
 }
 
 #BeforeInput::before{
